@@ -1,3 +1,9 @@
+Universidade Estadual Santa Cruz
+Redes de computadores 1
+Doscente: Jorege Lia
+Discente: George Sivla LAves, 201620032
+Ilheus 05/12/2023
+
 Documentação do Jogo de Damas Multiplayer em Rede Local em Python
 1. Introdução:
 O objetivo desta documentação é fornecer uma visão geral do desenvolvimento de uma aplicação de jogo de damas para dois jogadores em uma rede local, implementada em Python. Esta aplicação envolverá a comunicação entre um cliente e um servidor para possibilitar o jogo.
